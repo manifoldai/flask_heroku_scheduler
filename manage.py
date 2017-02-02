@@ -9,5 +9,6 @@ manager = Manager(app)
 def hello():
     print("hello")
 
+
 if __name__ == "__main__":
     manager.run()
